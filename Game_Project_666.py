@@ -16,7 +16,7 @@ game_map = [
     ["#","#","#","#","#","#","#","#","#"]
 ]
 
-# "🐄"
+# "🐄""🐄"
 
 def get_random_tile():
     # select a random line in the map
